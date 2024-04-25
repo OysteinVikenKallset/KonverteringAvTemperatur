@@ -10,7 +10,7 @@ class Program
 
 
         double input;
-        string? choice;
+        string choice;
         int i = 0;
 
         do
@@ -18,7 +18,7 @@ class Program
             Console.WriteLine("Velg konvertering:");
             Console.WriteLine("1. Fra Celsius til Fahrenheit");
             Console.WriteLine("2. Fra Fahrenheit til Celsius");
-            choice = Console.ReadLine();
+            choice = Console.ReadLine() ?? string.Empty;
             if (choice != "1" && choice != "2")
             {
                 Console.WriteLine("Ugyldig valg. Prøv igjen.");
