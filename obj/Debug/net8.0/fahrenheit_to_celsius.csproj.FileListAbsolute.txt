@@ -12,3 +12,4 @@ c:\Programering\learnC#and.Net\CsharpProjects\fahrenheit_to_celsius\fahrenheit_t
 c:\Programering\learnC#and.Net\CsharpProjects\fahrenheit_to_celsius\fahrenheit_to_celsius\obj\Debug\net8.0\fahrenheit_to_celsius.pdb
 c:\Programering\learnC#and.Net\CsharpProjects\fahrenheit_to_celsius\fahrenheit_to_celsius\obj\Debug\net8.0\fahrenheit_to_celsius.genruntimeconfig.cache
 c:\Programering\learnC#and.Net\CsharpProjects\fahrenheit_to_celsius\fahrenheit_to_celsius\obj\Debug\net8.0\ref\fahrenheit_to_celsius.dll
+C:\Programering\learnC#and.Net\CsharpProjects\fahrenheit_to_celsius\fahrenheit_to_celsius\obj\Debug\net8.0\fahrenheit_to_celsius.sourcelink.json
