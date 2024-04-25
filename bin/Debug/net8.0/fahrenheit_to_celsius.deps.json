@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "fahrenheit_to_celsius/1.0.0": {
+        "runtime": {
+          "fahrenheit_to_celsius.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fahrenheit_to_celsius/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
